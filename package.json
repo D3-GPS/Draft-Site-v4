@@ -1,5 +1,5 @@
 {
-  "name": "d3-landing-v4-deploy-ready",
+  "name": "d3-landing-v4-ready",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -10,8 +10,6 @@
   "dependencies": {
     "next": "14.2.30",
     "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "framer-motion": "^11.3.19",
-    "lucide-react": "^0.462.0"
+    "react-dom": "18.3.1"
   }
 }
